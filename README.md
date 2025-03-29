@@ -1,4 +1,5 @@
-# Ideal Sampling
+# Ideal Sampling 
+  JEFRIN INOLA J (212223060104).
 
 ## Aim
 To perform ideal sampling on a continuous signal and analyze its reconstruction.
@@ -76,4 +77,4 @@ plt.show()
 
 ## Results
 - The continuous signal was successfully sampled using impulse sampling.  
-- The reconstruction process demonstrates that an ideal sampled signal retains its original characteristics when resampled correctly.  
+
